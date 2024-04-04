@@ -1,2 +1,2 @@
 # Asteroids-RN
-2D React Native
+2D React Native Game
